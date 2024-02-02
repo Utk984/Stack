@@ -16,15 +16,6 @@ This repo focuses on solving stack-based problems in categories like but not lim
 
 Each file contains a stack-based solution to a specific problem. The problems were sourced from GeeksforGeeks [Stack Data Structure](https://www.geeksforgeeks.org/stack-data-structure/?ref=lbp) article and practice problems.
 
-Techniques used include:
-
-- Reversing a string using a stack
-- Checking for balanced parentheses using a stack
-- Evaluating postfix expressions with a stack
-- Building undo/redo functionality with a stack
-
-The C++ stack class from the standard library is utilized.
-
 ## Running the Solutions
 
 The solutions are compiled and run as standalone C++ files. For example:
