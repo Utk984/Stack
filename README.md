@@ -11,6 +11,7 @@ This repo focuses on solving stack-based problems in categories like but not lim
 - String/Array Reversal
 - Balancing Symbols 
 - Evaluating Expressions
+- Celebrity Problem
 
 ## Solutions
 
